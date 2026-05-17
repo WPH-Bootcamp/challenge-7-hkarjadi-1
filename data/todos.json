@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1778985150663,
+        "task": "Challenge 1 - Simple Landing Page with Html and CSS",
+        "status": "done"
+    },
+    {
+        "id": 1778985198899,
+        "task": "Challenge 2 - Basic Layout Implementation with HTML and Vanilla CSS",
+        "status": "done"
+    },
+    {
+        "id": 1778985270534,
+        "task": "Challenge 3 - Landing Page dengan Tailwind CSS",
+        "status": "active"
+    },
+    {
+        "id": 1778985329653,
+        "task": "Challenge 4 - Interactive Calculator & Data Analyzer",
+        "status": "active"
+    },
+    {
+        "id": 1778985423756,
+        "task": "Challenge 5 - To-Do App dengan Class, Async & DOM (atau CLI)",
+        "status": "active"
+    },
+    {
+        "id": 1778985525612,
+        "task": "Challenge 6 - Simple Book Management Application",
+        "status": "active"
+    },
+    {
+        "id": 1778985623120,
+        "task": "Challenge 7: Transform To-Do App using TypeScript",
+        "status": "active"
+    }
+]
